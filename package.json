@@ -10,6 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "js-yaml": "^3.13.1",
     "vue": "^2.5.2",
     "vue-router": "^3.0.7",
     "ws": "^7.1.1"
