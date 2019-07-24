@@ -1,21 +1,17 @@
-# game
+# 在线井字棋游戏
 
-> A Vue.js project
+> 基于Vue和WebSocket
 
-## Build Setup
+> 演示地址:[点我前往](http://g.sixming.com)
+
+> 交流QQ群:826352486(极简影院的交流群，懒得再建群了)
+## 依赖
 
 ``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
+ws
+#npm install ws
+vue-router
+#npm install vue-router
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+这一次没有用UI框架全部都是自己写的样式 可能有些不尽人意 
